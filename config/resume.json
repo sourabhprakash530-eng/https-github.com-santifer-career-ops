@@ -1,0 +1,160 @@
+{
+  "personal": {
+    "name": "Sourabh Prakash",
+    "email": "sourabhprakash530@gmail.com",
+    "phone": "+91 8887769991",
+    "location": "Lucknow, Uttar Pradesh",
+    "address": "B-60 Ahilyabai Nagar, Kalyanpur West, Lucknow – 226022",
+    "linkedin": "linkedin.com/in/sourabh-ji-678bb41b6",
+    "dob": "19 September 2001"
+  },
+  "professional_summary": "Results-driven MBA candidate specializing in Finance and Marketing with a solid technical foundation from a BCA background. Experienced in data analysis, financial decision-making, and cross-functional project management. Demonstrated ability to blend analytical thinking with strategic creativity — having led marketing events, coordinated community initiatives, and conducted published research on AI adoption in financial markets. Passionate about leveraging technology and business insights to drive organizational growth.",
+  "education": [
+    {
+      "degree": "MBA – Finance & Marketing",
+      "institution": "Babu Banarasi Das University, Lucknow",
+      "year": "2025-2027",
+      "status": "Pursuing"
+    },
+    {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "institution": "Khawaja Moinuddin Chishti Language University, Lucknow",
+      "year": "2021-2024",
+      "status": "Completed"
+    },
+    {
+      "degree": "Diploma in Civil Engineering",
+      "institution": "Maharishi University of Information Technology, Lucknow",
+      "year": "Completed"
+    },
+    {
+      "degree": "12th Standard",
+      "institution": "Jeevandhara Convent College, Lucknow",
+      "status": "Completed"
+    },
+    {
+      "degree": "10th Standard",
+      "institution": "Jeevandhara Convent College, Lucknow",
+      "status": "Completed"
+    }
+  ],
+  "technical_skills": [
+    "MS Office Suite",
+    "Advanced Excel",
+    "Data Analysis",
+    "AI Tools",
+    "Financial Modelling",
+    "Python",
+    "SQL",
+    "Tableau",
+    "Power BI"
+  ],
+  "business_skills": [
+    "Financial Analysis",
+    "Market Research",
+    "Business Strategy",
+    "Project Management",
+    "Financial Decision Making",
+    "Cross-functional Project Management",
+    "Risk Analysis"
+  ],
+  "soft_skills": [
+    "Leadership",
+    "Critical Thinking",
+    "Problem Solving",
+    "Decision Making",
+    "Creativity",
+    "Goal-Oriented",
+    "Discipline",
+    "Communication",
+    "Mentorship",
+    "Team Coordination",
+    "Stakeholder Management"
+  ],
+  "languages": [
+    "Hindi (Native)",
+    "English (Proficient)"
+  ],
+  "experience": [
+    {
+      "title": "Teaching Internship",
+      "institution": "Educational Institution",
+      "duration": "2019-2021",
+      "type": "Educational",
+      "highlights": [
+        "Delivered structured lessons and managed classroom activities for diverse student groups",
+        "Developed and adapted teaching materials to improve student engagement and comprehension",
+        "Built strong communication and mentorship skills through daily student interaction"
+      ]
+    },
+    {
+      "title": "Civil Engineering Internship",
+      "type": "Field",
+      "duration": "2019",
+      "highlights": [
+        "Gained hands-on field exposure to civil construction practices and site management",
+        "Assisted in technical documentation, measurements, and quality inspections"
+      ]
+    },
+    {
+      "title": "BCA Internship",
+      "type": "Technical",
+      "duration": "2017",
+      "highlights": [
+        "Applied programming and IT skills in a professional project environment",
+        "Contributed to software/system development tasks and team-based technical assignments"
+      ]
+    }
+  ],
+  "projects_and_research": [
+    {
+      "title": "Awareness and Usage of Artificial Intelligence in Online Stock Trading among Young Investors",
+      "type": "Research Based Management (RBM) Project",
+      "duration": "11 Months",
+      "year": "2024",
+      "highlights": [
+        "Led an independent research study on AI adoption in financial markets",
+        "Designed surveys and collected primary data from young investors",
+        "Applied analytical frameworks to evaluate AI adoption patterns",
+        "Presented findings and strategic recommendations in formal academic report format"
+      ]
+    }
+  ],
+  "achievements_and_leadership": [
+    {
+      "title": "2nd Position — Udgam Marketing Event",
+      "description": "Competed and placed among top participants in university-level marketing competition",
+      "skills_demonstrated": ["Strategic Thinking", "Presentation Skills"]
+    },
+    {
+      "title": "Event Coordinator",
+      "description": "Planned and executed college-level events with emphasis on logistics and team coordination",
+      "skills_demonstrated": ["Leadership", "Project Management", "Stakeholder Communication"]
+    },
+    {
+      "title": "NMAT Score of 162 (2024-25)",
+      "description": "Secured competitive score in national management entrance exam after focused one-year preparation"
+    },
+    {
+      "title": "NGO Volunteer — Smile Foundation",
+      "duration": "1 Month (2025)",
+      "description": "Actively contributed to community outreach and social development initiatives"
+    }
+  ],
+  "certifications": [
+    "NMAT Score: 162 (2024-25)"
+  ],
+  "extra_curricular": [
+    "Active participant in college cultural, technical, and marketing events",
+    "Community service volunteer with Smile Foundation — supported educational outreach programs"
+  ],
+  "target_roles": [
+    "Finance Intern",
+    "Business Analyst Intern",
+    "Marketing Analyst Intern",
+    "Data Analyst Intern",
+    "Financial Modelling Intern",
+    "Strategy Consultant Intern",
+    "Research Analyst Intern"
+  ]
+}
